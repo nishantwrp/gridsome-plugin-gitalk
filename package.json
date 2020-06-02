@@ -1,0 +1,24 @@
+{
+  "name": "gridsome-plugin-gitalk",
+  "version": "0.1.0",
+  "description": "A plugin that simplifies adding Gitalk comments to Gridsome.",
+  "main": "gridsome.client.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantwrp/gridsome-plugin-gitalk.git"
+  },
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gitalk"
+  ],
+  "author": "Nishant Mittal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nishantwrp/gridsome-plugin-gitalk/issues"
+  },
+  "homepage": "https://github.com/nishantwrp/gridsome-plugin-gitalk#readme",
+  "dependencies": {
+    "vue-gitalk": "^0.2.0"
+  }
+}
