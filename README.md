@@ -14,6 +14,9 @@ $ npm install gridsome-plugin-gitalk
 $ yarn add gridsome-plugin-gitalk
 ```
 
+## Tutorial
+Refer to [this blog](https://www.nishantwrp.com/posts/add-github-based-comments-on-your-gridsome-blog/) for a detailed tutorial on how to use and configure this plugin.
+
 ## Usage
 
 Add this plugin to your  `gridsome.config.js`

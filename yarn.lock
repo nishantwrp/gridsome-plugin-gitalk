@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-vue-gitalk@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/vue-gitalk/-/vue-gitalk-0.2.0.tgz#46682a889841e1fbfffb105680f7ad41e55cc905"
-  integrity sha512-kuTvcvQwBi7rdPjFzfDqgxpN8aHwMxu+fsvEG1oVaTLXKYuF6InUbezdL+YSOV/oUGN4DX1ga21+JYrCoMKrsA==
+vue-gitalk@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/vue-gitalk/-/vue-gitalk-0.3.0.tgz#a507ec6d002ded324a986cd9afc87394422f25e9"
+  integrity sha512-iu2x/SMZ4pzZ+m1uTrrdVtJgjNvTGAKvlM8EosQ9fvXRSjFyHAeYxygKxQQoGLeywE6XIPzjzmam5Xzy7gmwlQ==
