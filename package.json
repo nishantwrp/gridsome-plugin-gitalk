@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-gitalk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A plugin that simplifies adding Gitalk comments to Gridsome.",
   "main": "gridsome.client.js",
   "repository": {
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/nishantwrp/gridsome-plugin-gitalk#readme",
   "dependencies": {
-    "vue-gitalk": "^0.3.0"
+    "vue-gitalk": "^0.4.0"
   }
 }
