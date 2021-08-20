@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/nishantwrp/gridsome-plugin-gitalk#readme",
   "dependencies": {
-    "vue-gitalk": "^0.4.0"
+    "vue-gitalk": "^0.5.0"
   }
 }
