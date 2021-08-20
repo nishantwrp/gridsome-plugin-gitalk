@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-gitalk",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A plugin that simplifies adding Gitalk comments to Gridsome.",
   "main": "gridsome.client.js",
   "repository": {
